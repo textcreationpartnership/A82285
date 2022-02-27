@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two great questions consider'd I. What the French king will do, with respect to the Spanish monarchy. II. What measures the English ought to take.</title>
+            <author>Defoe, Daniel, 1661?-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82285</idno>
+            <idno type="STC">Wing D850C</idno>
+            <idno type="STC">ESTC R229801</idno>
+            <idno type="EEBO-CITATION">99899371</idno>
+            <idno type="PROQUEST">99899371</idno>
+            <idno type="VID">153170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2352:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two great questions consider'd I. What the French king will do, with respect to the Spanish monarchy. II. What measures the English ought to take.</title>
+                  <author>Defoe, Daniel, 1661?-1731.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles Mount, near Holburn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Daniel Defoe.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spanish Succession, War of, 1701-1714 --  Causes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153170:1"/>
+            <p>The Two Great QUESTIONS CONSIDER'D.</p>
+            <list>
+               <item>I. <hi>What the</hi> French <hi>King will Do, with Reſpect to the</hi> Spa<g ref="char:EOLhyphen"/>niſh Monarchy.</item>
+               <item>II. <hi>What Meaſures the</hi> Engliſh <hi>ought to Take.</hi>
+               </item>
+            </list>
+            <p>LONDON, Printed for <hi>Charles Mount,</hi> near <hi>Holburn,</hi> 1700.</p>
+            <p>Price Two Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:153170:2"/>
+            <head>The Two Great Queſtions CONSIDERD.</head>
+            <p>WE are told That the Deceaſed King of <hi>Spain</hi> has by his laſt Will, beſtow'd his Kingdoms on the Duke <hi>D' Anjou,</hi> Grandſon to the Preſent King of <hi>France.</hi>
+            </p>
+            <p>Among<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the many weak Actions of that Effeminate Prince, who hardly e<g ref="char:EOLhyphen"/>ver did a Wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e One, This is the moſt Ridiculous; if it be proper to give <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> to the Actions of Soverign Princes.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> imigine the moſt Chriſtian King wou'd give any Regard to, or put <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon ſuch a Bequeſt, any farther than conſiſted with his other <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or at leaſt with his Intereſt; muſt be a Folly none could be guil<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch as know very little of the King of <hi>France,</hi> or of the Affairs of <hi>Europe,</hi>
+            </p>
+            <p>2. To think that the Reſt of of Princes of <hi>Chreſtendom,</hi> wou'd ſuffer the <hi>Spa<g ref="char:EOLhyphen"/>niſh Monarchy</hi> to be bequath'd by Will to a <hi>French</hi> Man, without any Title or othe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Right than the Deed of Gift of the late King, and without any Re<g ref="char:EOLhyphen"/>gard to the Right of the Lawful Pretenders, is alſo moſt Egregious Nonſence<g ref="char:punc">▪</g>
+            </p>
+            <p>To make way therefore, to the Caſe in hand, and come at the Queſtions before us with more Clearneſs; 'tis neceſſary to Examine the Nature, and probable Conſequences of this Laſt Will and Teſtament of the King of <hi>Spain.</hi>
+            </p>
+            <p n="1">1. As to the Nature of the Thing, it ſeems to be a Tacit Invitation to all the Competitors to a Dangerous and a Bloody War; as if the King of <hi>Spain</hi> ſhould <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid to his Privy Council, <hi>I'll be revenged on them all for attemping to divid our Dominions; for I'll give it to One that has no Title, let the Reſt fight for it, and the longeſt Sword take all.</hi>
+            </p>
+            <p>As to the Duke <hi>E' Anjou,</hi> he as no Manner of Title, but what is preſump<g ref="char:EOLhyphen"/>tive on the Death of his Father and Elder Brother vvithout Iſſue; if they ſhould have Children the Emperor of <hi>Morocco</hi> has as good, and perhaps a bet<g ref="char:EOLhyphen"/>ter Title to the Crovvn of <hi>Spain</hi> than He.</p>
+            <p>The <hi>Dauphin</hi> of <hi>France</hi> has an Unqueſtion'd Title to the Crovvn of <hi>Spain,</hi> if it be True, that the Renunciation made by his Father and Mother at the <hi>Py<g ref="char:EOLhyphen"/>renoean</hi> Treaty; cannot bind the Children ſo as to deprive them of their Right, vvhich is the great Argument novv us'd to defend their Title: Novv if their Right be good the Crovvn is the <hi>Dauphin</hi>'s, and after him the Duke of <hi>Burgundy</hi>'s and his Heirs; and Dr. <hi>Davenant</hi> may ſpare himſelf the Labour of Writing a long Diſcourſe to defend the <hi>Dauphin</hi>'s Title, for vve vvill grant he has an Undoubted Right of Succeſſion.</p>
+            <p>But I ſhould be glad to have it anſver'd, hovv the Duke <hi>D' Anjou</hi> can have a Title vvhile the other are alive? Is cannot be in the Povver of the <hi>Dauphin</hi> to ſay, I vvill give my Right to my Second Son, for I do not think it vvorth my vvhile to accept of it for my ſelf or my Eldeſt. Becauſe,</p>
+            <p n="2">2. The Conſequence of that vvill in all Probability be this, that the Duke of <hi>Burgundy</hi>'s Son vvhen he has One vvill ſay again, My Grandfather had no
+<pb n="3" facs="tcp:153170:2"/>
+               <hi>Power to give away my Right,</hi> I <hi>am the Undoubted Heir to the</hi> Spaniſh Monarchy, <hi>and ſo no Queſtion he will be if the preſent</hi> Dauphin <hi>has a Right; and if Power be in his Hands to ſubdue it, he will have it. tho' the Poſſeſſion be his Uncle's; for Crowns know no Uncles, Brothers, or any Relations; when Power of Poſſeſſion joyn'd with Right is before them.</hi>
+            </p>
+            <p>
+               <hi>So that the King of</hi> France <hi>cannot but ſee, that to take the Crown of</hi> Spain <hi>from the Will and Teſtament of the late King, is Diſclaiming the Right of his own Son and Involving his Grandſons in Bloody Wars; the Iſſue of which a Wiſer Head than His cannot foreſee. This leads me to Conſider.</hi>
+            </p>
+            <div n="1" type="question">
+               <head>The Firſt Queſtion.</head>
+               <p>What Meaſures the King of <hi>France</hi> vvill take, vvith reſpect to the Succeſſion of the <hi>Spaniſh Monarchy?</hi>
+               </p>
+               <p>
+                  <hi>By ſaying what Meaſures he will take, I mean, what He will in all Probability take, or what his Intreſt will lead him to take; for I ſuppoſe, no Man will imagine I am of his Privy Council.</hi>
+               </p>
+               <p>
+                  <hi>To debate this Matter, 'tis neceſſary to conſider the King of</hi> France<g ref="char:punc">▪</g> 
+                  <hi>wirh reſpect to the Terms He ſtands in with the reſt of</hi> Europe.</p>
+               <p>
+                  <hi>If the King of</hi> France <hi>were Abſolute Maſter of his own Meaſures and had no Leagues or Neighbours to regard; there is no Queſtion to be made, but that reject<g ref="char:EOLhyphen"/>ing all Conditions of he would immediately enter upon the Dominions</hi> Spain <hi>as his own undoubted Inheritance, or at leaſt his Sons; annex the the ſame to the Crown of</hi> Fran<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>and make it one Entire Empire, and any Man elſe wou'd do the like.</hi>
+               </p>
+               <p>
+                  <hi>But as He has Meaſures to take with Powerful Neighbours, who as Potent as <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is, are able to give him Diverſion enough; and if He ſhou'd embroil himſelf with them, may make it a Hazard whether he ſhould obtain it or no; He is too Wiſe a Prince not to ſee that his Intereſt will Oblige him to act in Concert with his Neigh<g ref="char:EOLhyphen"/>bours. as far as conveniently He can.</hi>
+               </p>
+               <p>
+                  <hi>The Truth of this Argument is abundantly confirm'd in the Meaſures He took, and the Alliances He made before the Death of the King of</hi> Spain.</p>
+               <p>
+                  <hi>They who think the King of</hi> France <hi>ſo Magnipotent that He values none of his Neighbours, and talk ſo big of him, that like Medal-makers they place him among the Invincibles; muſt have forgot the Siege of</hi> Namure, <hi>and the Vain Effort of the Power of</hi> France <hi>to relieve it; they muſt paſs over his Deſerting the Late, and Ac<g ref="char:EOLhyphen"/>knowledging the Preſent King of</hi> England <hi>at the Peace of</hi> Reſvvick; <hi>they muſt o<g ref="char:EOLhyphen"/>verlook the low Steps he was oblig'd to make, to draw the Duke of</hi> Savoy <hi>from the Confederacy, how he was unable to ſave</hi> Caſall. <hi>which coſt him ſo much Money; how he delivered the Impregnable Town of</hi> Pigneroll, <hi>which his Father call'd the Righ He and of</hi> France, <hi>and which coſt him 100 Millions to fortify; how he mar<g ref="char:EOLhyphen"/>ied the Fortune of</hi> France <hi>to a Daughter of</hi> Savoy <hi>without a Portion<g ref="char:punc">▪</g> and bought <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Duke of</hi> Savoy <hi>at the Price of his Grandſtn's Diſhonour; how he ſurrendred the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arge Dominions of</hi> Lorrain<g ref="char:punc">▪</g> 
+                  <hi>and</hi> Luxemburgh, <hi>and above 100 Fortified Towns to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Confederates, which though he were always Maſter of the Field, wou'd coſt him <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>even Years to recover by the Ordinary Courſe of Sieges and Attacks.</hi>
+               </p>
+               <pb n="4" facs="tcp:153170:3"/>
+               <p>
+                  <hi>Theſe are plain Demonſtrations, that he found himſelf over match'd by the Confederacy; and he is not a Man of ſo little Sence, as not to know it.</hi>
+               </p>
+               <p>
+                  <hi>Why elſe in the League now made for the Partition of the</hi> Spaniſh Monarchy, <hi>ſhou'd be content himſelf with the Dominion the</hi> Spa<g ref="char:EOLhyphen"/>niards <hi>had in</hi> Italy, <hi>and quit the Delicious Morſel of</hi> America <hi>to the Houſe of</hi> Auſtria.</p>
+               <p>
+                  <hi>What Reaſon can any one aſſign for it, but that finding the</hi> Eng<g ref="char:EOLhyphen"/>liſh <hi>and</hi> Dutch <hi>never to be brought to conſent, to his being ſo very powerful at Sea, as that Addition wou'd make him; he was willing to accept ſo large a Portion as the</hi> Italian <hi>Part aſſigned to him upon Eaſie Terms, rather than venture like the Dog in the Fable, to looſe all by coveting too much.</hi>
+               </p>
+               <p>
+                  <hi>Upon theſe Terms therefore, in Conſent with the</hi> Engliſh <hi>and</hi> Dutch, <hi>his Moſt Chriſtian Majeſty has agreed, that on the Deceaſe of the King of</hi> Spain <hi>the</hi> Spaniſh Monarchy <hi>ſhould be thus divid<g ref="char:EOLhyphen"/>ed,</hi>
+               </p>
+               <p>
+                  <hi>All the Dominions with the</hi> Spaniards <hi>poſſeſs in</hi> Italy <hi>to be given to the</hi> French, Millan <hi>excepted, which is to be given to the Duke of</hi> Lorrain <hi>in Conſideration of the Dutchies of</hi> Lorrain <hi>and</hi> Barr, <hi>which are to be yielded to the</hi> French, <hi>and all the reſt ſome few Towns on the Frontiers of</hi> Navarr <hi>excepted, to be given to the Arch Duke of</hi> Auſtria, <hi>with other Particulars needleſs to repeat,</hi>
+               </p>
+               <p>
+                  <hi>This League being Concluded, the King of</hi> Spain <hi>(as if had lin<g ref="char:EOLhyphen"/>ger'd out his Days only 'till it was thus fix'd) dyes according to cur Account on the</hi> 22. October <hi>laſt.</hi>
+               </p>
+               <p>
+                  <hi>The</hi> Spaniards <hi>on pretence, that they would not have their Mo<g ref="char:EOLhyphen"/>narchy divided, and taking no Notice at all of the Right of any Prince to ſucceed; has made a Legacy of his Kingdoms, and given them all away to the Duke</hi> D' Anjou, <hi>a Prince who has no more Right to it, or Pretence of Right, except as before, than the Prince of</hi> Wales <hi>or the Czar of</hi> Muſcovy.</p>
+               <p>
+                  <hi>Now 'tis a Mighty Diſputed Point among our</hi> Politicians, <hi>what the King of</hi> France <hi>will do in this New Juncture of Affairs, whether He will ſtand by the Partition agreed on, or accept of the late King of</hi> Spains <hi>Bounty, and take the Kingdom as a Gift to his Grandson.</hi>
+               </p>
+               <p>
+                  <hi>What He will do, as is before noted, cannot poſitively be aſſerted;
+<pb n="5" facs="tcp:153170:3"/>
+but what Reaſon the State and Nature of the thing, and his own Undoubted Intereſt will dictate, to be done by any Prince in his Cir<g ref="char:EOLhyphen"/>cumſtances, any one may judge.</hi>
+               </p>
+               <p>
+                  <hi>If He be the ſame King of</hi> France <hi>that he has always been, who has very rarely took falſe Meaſures, or baulkt his own Intereſt, if He be guided by the ſame well-mannag'd Council as he used to be, He will certainly adhere to the Poſculata of his Alliance, and quiet<g ref="char:EOLhyphen"/>ly accept the Partition of the</hi> Spaniſh Monarchy, <hi>as it is agreed in the before-mention'd League. For,</hi>
+               </p>
+               <p>
+                  <hi>By this Acquisition of</hi> Italy <hi>He ſecures to Himſelf the whole Abſo<g ref="char:EOLhyphen"/>lute Dominion of the</hi> Mediterranean Sea; <hi>He entirely excludes the Houſe of</hi> Auſtria <hi>from any farther Concern in</hi> Italy, <hi>He has the Church ſo abſolutely in his Clutches, that He may make himſelf Pope if He thinks ſit; and whenever He is</hi> pleas'd to be diſpleas'tl <hi>with the Petty Princes of</hi> Tuſcany, Parma, Modena, Mantua, <hi>&amp;c. He can blow them away with the Breath of his Mouth, they ſhall lay down their Principallities at his Invincible Feet, and count it more an Honour to be call'd</hi> Princes of <hi>the</hi> Blood <hi>or</hi> Peers of <hi>France, than to be Abſolute Lords of their own Dominions. So He ſhall when<g ref="char:EOLhyphen"/>ever He thinks fit, re-eſtabliſh the Old Kingdom of the</hi> Lombards, <hi>and annex it to the Title of</hi> France <hi>and</hi> Navarr.</p>
+               <p>
+                  <hi>And all this without the Expence of Treaſure or Hazard of his Armies, without fitting out a Fleet, or fighting at Sea or on Shore; the</hi> Engliſh <hi>and</hi> Dutch <hi>being aſſiſtant to put him into the Poſſeſſion of it.</hi>
+               </p>
+               <p>
+                  <hi>If the Emperor ſhou'd be ſo weak to oppoſe Him, He muſt ſtand up<g ref="char:EOLhyphen"/>on his own Leggs, and in the preſent Circumſtance, his Power does not ſeem formidable enough to make the Matter doubtful.</hi>
+               </p>
+               <p>
+                  <hi>And now we are come to mention the Emperor, let us ſay a Word or Two to thoſe Gentlemen, who in his behalf ſpeak big and ſay, be is able to baffle all theſe Meaſures.</hi>
+               </p>
+               <p>Firſt, <hi>They tell you, how powerful the Empire now is by the Ac<g ref="char:EOLhyphen"/>quiſition of the Kingdom of</hi> Hungary, <hi>and the moſt advantagious Peace with the</hi> Turk.</p>
+               <p>
+                  <hi>They tell you his Imperial Majeſty has an Army of</hi> 120 <hi>Thouſand Men, beſides the Troops of the</hi> Circles <hi>which are</hi> 80 <hi>Thouſand more that of theſe</hi> 50 <hi>Thouſand lye ready on the Confines of</hi> Italy, <hi>and all the reſt of his Forces are drawing down to the</hi> Rhine, <hi>that the Duke
+<pb n="6" facs="tcp:153170:4"/>
+of</hi> Brandenburgh <hi>on Condition of being made King of</hi> Pruſſia <hi>will joyn him with all his Forces that the Duke of</hi> Lunenburgh <hi>on account of the</hi> Ninth Electorate, <hi>will maintain</hi> 30 <hi>Thouſand Men at his own Charge, and thus all the Princes of</hi> Italy, <hi>are on his ſide.</hi>
+               </p>
+               <p>
+                  <hi>By theſe they tell you, the Emperor will immediately on the one ſide ſecure</hi> Italy <hi>and on the other ſide make ſuch a Vigorous Diverſion on the</hi> Rhine, <hi>that the King of</hi> France <hi>ſhall have Work enough to ſecure his own Dominions, while in the mean time the Arch-Duke</hi> Charles <hi>ſhall be ſent into Spain, where the</hi> Spanards <hi>who natu<g ref="char:EOLhyphen"/>rally hate the</hi> French, <hi>will immediately proclaim him King</hi>
+               </p>
+               <p>
+                  <hi>Thoſe are great Things indeed, and if the Emperor be ſo ſtrong, he may cut out a great deal of Work for the Confederates, and</hi> I'<hi>ll ſuppoſe, the Emperor ſhould be ſo blind to his own Intreſt as to attempt it, yet ſeems not at all probable, that his Impereal Majeſty who has hardly been able to ſupport himſelf this War in Conjunction with the whole Confederacy of</hi> Europe, <hi>ſhould imagine himſelf capable of putting a Check to the Power of</hi> France, <hi>in Conjunction with</hi> England <hi>and</hi> Holland; <hi>for whatever he might do in</hi> Italy <hi>and on the</hi> Rhine, <hi>he would never be able to defend</hi> Spain <hi>and</hi> Flanders <hi>if he really had them in Poſſeſſion,</hi>
+               </p>
+               <p>Firſt, Flanders <hi>always which has been maintain'd by the Conjunction of the</hi> Dutch, <hi>would immediately be entred by the</hi> Dutch <hi>on one ſide, and the</hi> French <hi>on the other; and muſt fall into their hands with little difficulty.</hi>
+               </p>
+               <p>Secondly, Spain <hi>cou'd never hold out againſt the</hi> French <hi>by Land, aſſiſted with the Naval Forces of the</hi> Engilſh <hi>and</hi> Dutch <hi>by Sea, the Iſlands of the</hi> Mediterranean <hi>muſt ſubmit to the Maſters of the Sea, and</hi> America <hi>would lye like the Golden Gar<g ref="char:EOLhyphen"/>land to the Wrestlers, to be given to the Conquerors.</hi>
+               </p>
+               <p>
+                  <hi>No man can imagine, but the Emperor, to whoſe Son ſo Conſiderable a Dominion is allotted will accept of the Partition for his Part, eſpecially when he ſees how impoſſible it will be to make better Conditions by force.</hi>
+               </p>
+               <p>
+                  <hi>What the</hi> Engliſh <hi>and</hi> Dutch <hi>are to do, if he ſhould; remains to be debated un<g ref="char:EOLhyphen"/>der another Head.</hi>
+               </p>
+               <p>
+                  <hi>I'll now ſuppoſe that which to me ſeems very unlekely, That the King of</hi> France <hi>ſhould accept of this Legacy, and claim the Crown of</hi> Spain <hi>for his Grandſon the Duke D'</hi> Anjou, <hi>and attempt th ſet up that Ridiculous Title of a Laſt Will and Teſta<g ref="char:EOLhyphen"/>ament, as the Foundation of his Pretenſion.</hi>
+               </p>
+               <p>
+                  <hi>Let us Calmly conſider the Conſequences.</hi>
+               </p>
+               <p n="1">1. He inevitably renews the War with the whole Con<g ref="char:EOLhyphen"/>federacy, that Peace which coſt Him ſo much to procure is immediately broken, upon the firſt Invaſion He makes on the Territories of Spain, who are a Branch of the Confederacy.</p>
+               <p n="2">2. He renews the War under inſuperable Diſadvan<g ref="char:EOLhyphen"/>tages, ſuch as are infinitely greater than He lay under be<g ref="char:EOLhyphen"/>fore, and ſuch as loudly tell the World, He never will
+<pb n="7" facs="tcp:153170:4"/>
+venture to fight the whole Confederacy again. <hi>Viz.</hi> The Multitude of ſtrong Towns &amp; Cities which he ſurrendred to the Confederates, which are a ſufficient Guar<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Peace, and the Different Caſe of the Emperor, who is more than 'twice what he was the laſt War, by his Peace with the <hi>Turks.</hi>
+               </p>
+               <p n="3">3. If He ſhould make the Duke D' <hi>Anjou</hi> King, <hi>France</hi> would really get nothing by the Bargain for in one Age the Race would be all <hi>Spaniards</hi> again; Nay, in a few Ye<g ref="char:EOLhyphen"/>ars Property woul'd prevail, and he woul'd no more let his Brother the Duke of <hi>Burgundy</hi> when King of <hi>France</hi> encroach upon him, than the late King of <hi>Spain</hi> woul'd the preſent King of <hi>France,</hi> We do not want Inſtances in the World, that Intereſt baniſhes all the Ties of Na<g ref="char:EOLhyphen"/>tion and Kindred, when the Duke <hi>D'Anjou</hi> had been King of <hi>Spain</hi> ſome time, he would look upon <hi>Spain</hi> to be his Own, his Native, his Peculiar, and be as far from ſubjecting himſelf to <hi>France,</hi> becauſe he was born there; as if he had never ſeen it: Poſſibly he might be willing to join Intereſt with <hi>France,</hi> and it may be join Forces upon Occaſion' but it muſt be where the Intereſt of the two Nations did not claſh then, and that is almoſt no where, but if ever <hi>France</hi> encroach upon him, ſhe wou'd find him King of <hi>Spain</hi> not Duke <hi>D'Anjou.</hi>
+               </p>
+               <p>So that all the King of <hi>France</hi> cou'd get by accepting the Crown of <hi>Spain,</hi> would be a little preſent Satisfacti<g ref="char:EOLhyphen"/>on, to ſee a Son of the Houſe of <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urbon</hi> on the <hi>Spaniſh</hi> Throne, but as King of <hi>France</hi> he wou'd not be One Farthing the beter for it.</p>
+               <p>But this would not be all as is before noted, but whenever the preſent Duke of <hi>Burgundy</hi> comes to Enjoy the Crown of <hi>France,</hi> it will in all Probability be an Eternal Cauſe of Contention between them: For if the
+<pb n="8" facs="tcp:153170:5"/>
+Family of <hi>France</hi> has any Title to <hi>Spain</hi> 'tis in the Eldeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Son of the Family, and there can be no Colour of a Title in the Second Son while the Eldeſt is alive, but what is founded either in the Gift of the One King or the Other.</p>
+               <p>As to the Gift of the <hi>Dauphin</hi> to his Second Son the firſt being alive, it cannot be valid; for he has no Po<g ref="char:EOLhyphen"/>wer to give away what is his Son's by Inheritance, nor can no more give the Crown of <hi>Spain</hi> from him than the Crown of <hi>France;</hi> if Gift could be pleaded, the Grandfather gave it away from them all before they were born: Nay, if the Duke of <hi>Burgundy</hi> ſhould con<g ref="char:EOLhyphen"/>ſent to it, His Children if ever he has any, will declare<g ref="char:punc">▪</g> he had nothing to do to give away their Right, any more than the preſent King of <hi>France</hi> had Power to give away the Right of the <hi>Dauphin;</hi> for ſince the Deficiency of that Action in its own Nature is the whole Ground of the <hi>Dauphin</hi>'s Title now, it will directly deſtroy the Title of the Duke <hi>D'Anjou,</hi> for what is a good Argu<g ref="char:EOLhyphen"/>ment for him cannot be a bad One againſt him.</p>
+               <p>As to the Gift of the Defunct King of <hi>Spain,</hi> I ſee no<g ref="char:EOLhyphen"/>thing in it to build a Pretence of Right on; If He had bequeath'd it to the Right Heir, I preſume, he wou'd not have thought his Title one jot the better for it. And if he had bequeath'd it to the <hi>Grand Seignior,</hi> the King of <hi>France</hi> wou'd not have thought his Title the worſe for it: So that it ſignifies juſt nothing at all.</p>
+               <p>We come now to the grand Queſtion propoſed.</p>
+            </div>
+            <div n="2" type="question">
+               <head>
+                  <hi>Queſt.</hi> 2. What Meaſures the Engliſh ought to take in this Juncture.</head>
+               <p>The Anſwer muſt be in Two Parts.</p>
+               <p n="1">1. Suppoſing the French King adheres to the Parti<g ref="char:EOLhyphen"/>tion agreed upon by the League before mentioned.</p>
+               <pb n="9" facs="tcp:153170:5"/>
+               <p n="2">2. Suppoſing the French King for Reaſons which we know not ſhould think fit to quit the Treaty, and puſh for the whole on the Pretence of a Will made by the King of <hi>Spain.</hi>
+               </p>
+               <p>'Tis confeſs'd <hi>England,</hi> ſince her Troops are broke, and her People more divided in Temper than 'twas hop'd they wou'd have been under ſo mild and gentle a Government, makes but a very mean Figure abroad; and were any King at the Head of her Councils as well as Forces, but King <hi>William,</hi> hardly any Nation would trouble their Heads to confederate with her.</p>
+               <p>But all the World does not yet ſee our weak Side, and the Reputation of the King makes us more formi<g ref="char:EOLhyphen"/>dable a great deal than we really are.</p>
+               <p>But we are to act according to the Knowledge we have of what our Circumſtances really are not what other Nations may believe them, leſt we let them know our Weakneſs at the Price of our Deſtruction.</p>
+               <p>However I'll for the preſent ſuppoſe what all good Men wiſh: That we were in the ſame good Poſture as the War left us, united in Council, and ready for Acti<g ref="char:EOLhyphen"/>on, and willing to preſerve the Character we had then in the World.</p>
+               <p>And <hi>Firſt,</hi> Suppoſing the King of <hi>France</hi> adheres to the Partition of the Spaniſh Monarchy.</p>
+               <p>If ſo, without Queſtion <hi>England</hi> ought to put her ſelf into ſuch a poſture as to be able, in Conjunction with the Dutch, to force the Emperor and Princes of <hi>Italy</hi> to comply with the Conditions.</p>
+               <p>At the ſame time ſo to maintain the Banllance in the Partition, as to oblige the King of <hi>France</hi> to accept of, and reſt contented with the Particulars ſtipulated in their reſpective Leagues, without farther Encroachment,
+<pb n="10" facs="tcp:153170:6"/>
+and to make themſelves Truſtees for the reſt, in Beha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the Heir.</p>
+               <p>It is already ſtarted as a Query, what if the King o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>France</hi> does accept of the Partition, and the Empero<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhou'd continue to ſtand out, the King of <hi>France</hi> is ther<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at Liberty to take the whole if he can get it.</p>
+               <p>No ſuch Matter, I do not pretend to have been privy to the Debates, or of the Council, in the contriving this League, nor to be acquainted with what Proviſion is made, in caſe the Emperor refuſes to come in, but in order to give a Judgment as near as can be done with<g ref="char:EOLhyphen"/>out Doors as we call it. I ſhall briefly ſtate the Reaſons, which in my Opinion ſhould move the Engliſh and Dutch to form this League: And the great Reaſon, which, as I conceive, gave Birth to the firſt Project of this League, ſetting aſide private Reaſons of State, was the maintaining the Ballance of Power in <hi>Europe.</hi>
+               </p>
+               <p>This has been the Foundation of all the Wars in our Age againſt the French, and in the laſt Ages againſt the Spaniards and the Emperor.</p>
+               <p>
+                  <hi>A juſt Ballance of Power is the Life of Peace.</hi> I queſti<g ref="char:EOLhyphen"/>on whether it be in the Humane Nature to ſet Bounds to its own Ambition, and whether the beſt Man on Earth wou'd not be King over all the reſt if he could. Every King in the World would be the Univerſal Mon<g ref="char:EOLhyphen"/>arch if he might, and nothing reſtrains but the Power of Neighbours; and if one Neighbour is not ſtrong enough for another, he gets another Neighbour to join with him, and all the little ones will join to keep the great one from ſuppreſſing them. Hence comes Leagues and Confederacies; thus the German Proteſtants call'd in the Aſſiſtance of <hi>Guſtavus Adolphus</hi> to m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch the Power of the Emperor <hi>Ferdinard</hi> the 2. and founded the famous
+<pb n="11" facs="tcp:153170:6"/>
+League call'd the Concluſions of <hi>Leipſick,</hi> which brought the Imperial Power to the due Ballance which it now ſtands at on the Foot of the Treaty of <hi>Weſtphalia;</hi> ſo the French and the Engliſh aſſiſted the Dutch to bring the Spaniſh Power to a Ballance in the time of <hi>Philip</hi> the II. when the Spaniſh Greatneſs began to be terrible to <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> which Ballance was eſtabliſhed in the Peace of <hi>Aix la Chappel.</hi>
+               </p>
+               <p>So the Power of <hi>France</hi> was brought to a Ballance, but not ſo equal as it might have been, had King <hi>Char<g ref="char:EOLhyphen"/>les</hi> II. ſtood to his own Propoſals at the Treaty of <hi>Nime<g ref="char:EOLhyphen"/>gune,</hi> the Defects of which Peace were in a great Meaſure the Occaſion of this late War, which has been the longeſt, moſt chargeable, and moſt bloody that ever the French Nation has been engaged in ſince the Days of <hi>Francis</hi> the I. their own civil Wars excepted.</p>
+               <p>This War has brought the power of <hi>France</hi> to a Bal<g ref="char:EOLhyphen"/>lance, ſhe had fortified her Frontiers with a continued Rampart, a Line of ſtrong Cities from <hi>Hunninghen</hi> on the Confines of the <hi>Swiſs,</hi> down the <hi>Rhine,</hi> the <hi>Moſell,</hi> and the <hi>Maes,</hi> to the very Sea-ſide, the greateſt whereof ſhe has been oblig'd to part with, to enable her Enemies to be their own Guarantees; by which in ſome places ſhe is left ſo naked, that ſhe is fain to build new Cities, or fortifie old ones to ſupply the Vacancy, as at <hi>Briſack,</hi> and in other ſhe lyes wholly open as at <hi>Pigneroll;</hi> ſhe has ſtoop'd to ſuch a peace, as has made her far leſs for<g ref="char:EOLhyphen"/>midable than before.</p>
+               <p>Now the precarious Life of the King of <hi>Spain</hi> gave the King of <hi>England</hi> juſt Umbrage, that this Ballance in which our Safety ſo much conſiſts, ſhould receive a Shock, to the prejudice of the Proteſtant Intereſt, by the Addition of the Spaniſh Dominion to that of <hi>France.</hi>
+                  <pb n="12" facs="tcp:153170:7"/>
+And here I place the Original of the Project, as a pro<g ref="char:EOLhyphen"/>bable Conjecture, at leaſt drawn from the Nature of things according to rational Concluſions from probable premiſes, when better Grounds are made publick, I ſhall own my ſelf miſtaken.</p>
+               <p>When the pretenders to the Spaniſh Succeſſion are conſidered, they are found to be the Emperor and the King of <hi>France,</hi> the Prince of <hi>Bavaria</hi> being dead before.</p>
+               <p>To let the Emperor poſſeſs the Spaniſh Dominions, would be the overthrowing the Ballance made at the <hi>Weſtphalia</hi> Treaty, by which the Houſe of <hi>Auſtria</hi> already ſtrengthened by the Conqueſt of <hi>Hungaria,</hi> and the peace with the Turks would be too potent for the princes of <hi>Germany,</hi> nor wou'd the French like well that the Em<g ref="char:EOLhyphen"/>peror the Eternal Competitor of <hi>France</hi> upon the <hi>Rhine</hi> ſhou'd be ſtrengthen'd with ſuch an addition, by which he wou'd ha' been Lord of almoſt half the World.</p>
+               <p>To let the French poſſeſs the Spaniſh Dominions, would overthrow the Ballance Purchas'd in this War with ſo much Blood and Treaſure, and render fruitleſs the Treaty of <hi>Reſwick.</hi> Twou'd eſpecially ha' been Fa<g ref="char:EOLhyphen"/>tal to the Engliſh and Dutch, by the encreaſe of Wealth from the Maſs of Money returning Yearly from the Em<g ref="char:EOLhyphen"/>pires of <hi>Mexico,</hi> and <hi>Peru,</hi> which the French wou'd be better Husbands of than the <hi>Spaniards,</hi> by their encreaſe of Shipping which wou'd make them too ſtrong for all the World at Sea, and by their ruining the Spaniſh Trade which is the greateſt and moſt profitable in <hi>Europe;</hi> 'twould immediately unhinge all the Settlement of our Merchants and Factories, and turn the whole Channel of Trade; for the ports of <hi>Spain</hi> being free to the French <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Subjects, all our Negoce that way wou'd be deſtroy'd, then their Neighbourhood in <hi>Flanders,</hi> and in the <hi>Weſt-Indies,</hi> would be intollerable and inſupportable.</p>
+               <pb n="13" facs="tcp:153170:7"/>
+               <p>O 'twould fill a Volume to ſet down the Inconveni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncies which <hi>England</hi> and <hi>Holland</hi> muſt expect to feel, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Caſe the <hi>French</hi> were Maſters of the <hi>Spaniſh</hi> Monar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy, the <hi>Streights-Mouth</hi> would be like the <hi>Sound,</hi> and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll our Ships ſhould pay Toll at <hi>Gibralter,</hi> as they do at <hi>Elſeneur,</hi> your Fiſhing Trade from <hi>New-England,</hi> and <hi>New-foundland</hi> wou'd periſh, for the <hi>French</hi> from the Banks of <hi>Newfoundland</hi> ſhould go free, and you Pay 23 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er Cent.</hi> &amp;c. We muſt erect an Admiralty in the <hi>Weſt-ln<g ref="char:EOLhyphen"/>dies,</hi> or mantain a Fleet there, or our Plantations wou'd be always at his Mercy; our Collonies of <hi>Virginia,</hi> and <hi>New-England,</hi> would eaſily be deſtroy'd while the French would lye on their backs quite thro' their Country from <hi>Ganada</hi> to the City of <hi>Mexico.</hi>
+               </p>
+               <p>Theſe are ſome of the leſſer Inconveniencies, which as I preſume, were the firſt Motives to the Treaty.</p>
+               <p>The Conſederats therefore not being willing the French <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>houl'd have <hi>Spain,</hi> and the French being reſolv'd the Em<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or ſhould not have it, a Medium is propoſed that ſince it was not convenient for <hi>Europe,</hi> that either of them ſhould have <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, and both of them had a Title to it, it ſhould therefore b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> divided between them in Manner and Form, as aforeſaid.</p>
+               <p>This is the ſhort Hiſtory of this League, which really has more of Pollicy than Right in it, for ſtrictly Conſidered, the Right of Succeſſion can devolve but upon cue Perſon, let that one be who it will, is not the preſent Buſineſs. But publick good, the Peace of Kingdoms, the General quiet of <hi>Europe,</hi> prevails to ſet aſide the Point of nice Juſtice, and determine in favour of the Publick Tranquility.</p>
+               <p>And I crave leave to make Two Obſervations here:</p>
+               <p>
+                  <hi>Firſt,</hi> Our <hi>Jacobites-Proteſtant-Brethren,</hi> whoſe Underſtand<g ref="char:EOLhyphen"/>ings are ſo blind, that they cannot ſee the Intereſt of their Na<g ref="char:EOLhyphen"/>tive Country, have here fairly repreſented to them the Con<g ref="char:EOLhyphen"/>dition <hi>England</hi> had now been in, and <hi>Europe</hi> in General <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Papiſt and Conſederate with <hi>France</hi> had been on the Engliſh
+<pb n="14" facs="tcp:153170:8"/>
+Throne; if <hi>England</hi> had not had a King who cou'd ſo far In<g ref="char:EOLhyphen"/>fluence the Ambition of the powerful Prince, as to prevent his ſeizing that Monarchy of <hi>Spain,</hi> which none but <hi>England<g ref="char:punc">▪</g>
+                  </hi> cou'd hinder him from.</p>
+               <p>
+                  <hi>Secondly,</hi> Our Non-jurants who hold the right Lines of Princes ſuch Sacred things, may alſo ſee that even among Hereditary Princes themſelves, the Rights of Succeſſion are oftentimes infringed, and the private Intereſt of Princes and Families ſet aſide when the publick Intereſt of Nations, the Preſervation of Peace, and the keeping a General Ballance of Power among Princes, comes to be the Queſtion, and the Hiſ<g ref="char:EOLhyphen"/>tories of all Ages and Nations give Inſtances to Prove it as well as this.</p>
+               <p>Having thus run thro' the Reaſons of this League of Parti<g ref="char:EOLhyphen"/>tion, the Queſtion is anſwered of courſe, that if the Emperor ſhou'd refuſe to come into the Partition and puſh for the whole, then the King of <hi>France</hi> is not thereby at Liberty to poſſeſs the whole, if he can, for that wou'd overthrow all the Meaſures upon which the League of Partition is built.</p>
+               <p>The Emperor is not ſo weak a Prince to refuſe the King<g ref="char:EOLhyphen"/>dom of <hi>Spain</hi> with all its <hi>&amp;c's</hi> in the <hi>Ocean, Flanders,</hi> and <hi>Ame<g ref="char:EOLhyphen"/>rica,</hi> but upon ſome Expectation to get more; the Conſede<g ref="char:EOLhyphen"/>rates therefore are to preſerve that part which is Deſign'd him face, and then effectually to put it out of his power to obtain the reſt, and with all not to admit him into the part Reſerv'd for him, till he agrees to accept it on the Terms propoſed; if he ſhou'd abſolutely refuſe it, which is a ridi<g ref="char:EOLhyphen"/>culous Suppoſition, there are other Heirs of that Line to have recourſe too, there's no doubt the Crown of <hi>Spain,</hi> need not go a begging for an Heir.</p>
+               <p>It may be anſwered, if it be thus, it is the Emperors beſt Courſe to lay his Meaſurer for the whole, and if he connot carry it, he may accept of the Partition at laſt.</p>
+               <p>That's more than the Objector may be able prove how far the Confederates may think fit to beſtow the remainder, if the Emperor after a War ſhou'd be reduc'd to accept of it, is more than any one can Anſwer, and more than the Em<g ref="char:EOLhyphen"/>peror will try, if he be not infatueted worſe than ever a cer<g ref="char:EOLhyphen"/>tain
+<pb n="15" facs="tcp:153170:8"/>
+King was, who if he had not might ha'been a King ſtill.</p>
+               <p>The Second Branch of the Anſwer is ſuppoſing the King <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f France</hi> ſhou'd ſo far forget himſelf as to quit the League of Partition<g ref="char:punc">▪</g> and claim the Crown of <hi>Spain</hi> for his Grandſon <hi>Duk d'Anjou,</hi> by Virtue of the Will of the King Defunct.</p>
+               <p>It muſt certainly then be the Intereſt of <hi>England</hi> and <hi>Hol<g ref="char:EOLhyphen"/>and,</hi> firſt to put themſelves in ſuch a Poſture as may prevent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he French King ſeizing of <hi>Spain</hi> it ſelf, and <hi>Flanders</hi> in Par<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icular.</p>
+               <p>And upon the Firſt Invaſion of the Territories of <hi>Spain</hi> by the French King, to Declare War againſt him in the Name of the whole Confederacy as an Infringer of the Grand Peace at <hi>Reſwick.</hi>
+               </p>
+               <p>And then by appearing on the Frontiers in ſuch a formi<g ref="char:EOLhyphen"/>dable manner as ſhall give him diverſion enought, that he not be able to enter <hi>Spain</hi> with any conſiderable Forces.</p>
+               <p>The Firſt of theſe things is to be done immediately by fitt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng out a good Fleet, which ſhould ſo Scour the <hi>Mediteranean</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the French wou'd not be able to do much on the ſide of <hi>Catalonio,</hi> for Experience has told us a Fleet at Sea will make <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir War in <hi>Catalonia</hi> very uneaſie to them, and by landing <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſmall Force of about Eight or Ten Thouſand Men at <hi>Fon<g ref="char:EOLhyphen"/>erabia,</hi> which ſhould be ſufficient to Defend that ſide of the Country from the Invaſions of the French.</p>
+               <p>But this Pamphlet is not wrot to direct Methods, but to Ara gue the general Point.</p>
+               <p>The Concluſion of the Argument muſt come to that ſort <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f People who have appeared Champions for our Engliſh Liberty, as to Damn all kind of force, as uſeleſs, burthenſom <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Kingdom and Badges of ſlavery, and all Arguments to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e only pretences for ſupporting Arbitrary Deſigns</p>
+               <p>If the French ſhou'd attack <hi>Spain,</hi> I am far from ſaying I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m glad they will be convinc'd; convinc'd; but I muſt ſay I am ſorry <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he people of <hi>England</hi> have been deluded by their ſpecious <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retences.</p>
+               <pb n="16" facs="tcp:153170:9"/>
+               <p>
+                  <hi>F<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> if the French carry the Spaniſh monarchy for want of our being in a Condition to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it; I am bold to tell thoſe Gentlemen God Almighty muſt be put to the trouble of working another miracle to ſave us, or we are reduc'd to a very dangerous Condition.</hi>
+               </p>
+               <p>
+                  <hi>But ſay they, we hav. a great Fleet, and in that we are ſafe; it is true, Gentle<g ref="char:EOLhyphen"/>men, ſo we are from Invaſion, I believe we need not fear all the World; but what is England without its Trade without its Plantation Trade, Turky Trade, and Spaniſh Trade, and where will that be when a French Garriſon is planted at Cadiz, and the French Fleet brings home the Plate from Havana.</hi>
+               </p>
+               <p>
+                  <hi>What will the Virgina Collony be worth when the French come to be ſtrong in the Lakes of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and have a free Commerce from Quebeck to Mexico behind ye, what will our Northern Trade be worth in a War, when the ports of Oſtend and Newport are as full of Pivates as Dunkirk and St. Malo.</hi>
+               </p>
+               <p>
+                  <hi>A wiſe Man cannot patiently reflect upon the formidable power of France with the Addition of the Spaniſh Dominion, and ſhould he at laſt annex it to the Crown of France, who can conſider without Horrour that all the ports from Sluce in Flanders, to the F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Meſſina in Sicily, ſhould be in the Hands of the French, which is a Coaſt of near 3000 Miles, Portugal, Genoua and Leghorn excepted; and how long they will bold out, is eaſie to imagine.</hi>
+               </p>
+               <p>
+                  <hi>I know God can prevnt Humane Contrivances, and I believe he has plac'd King</hi> William <hi>on the Engliſh Throne, on purpoſe to dſapoint this Invincible Monarch in theſe vaſt Deſigns. but no Thanks to our Gentlemen that have ſo weakned both his Hands and his Intereſt at home, as to make him leſs able to perform for us what is our own Advantage than His Majeſty wou'd be, and than the Caſe requir'd.</hi>
+               </p>
+               <p>
+                  <hi>As to Ways and Means I meddle not with them, I leave them to the wiſe Heads of the Nation, but with Submiſſion to their Judgment, this I am poſitive in, let our Meaſures be what they will, if we do not keep the Enemy, the French, I mean out of Spain, we are undone.</hi>
+               </p>
+               <p>
+                  <hi>In all the Hiſtories of Times and Wars, I never read of a General who would not chuſe to be Maſter of the Field, and able to fight his Enemy, rather than to be coop'd up, and bound to defend the Walls of a Town.</hi>
+               </p>
+               <p>
+                  <hi>If the French get the Spaniſh Crown, we are beaten out of the Field as to Trade, and are beſieged in our own Iſland, and never let us flatter our ſelves with our Safety conſiſting ſo much in our Fleet; for this I preſume to lay down as a fundamental Axiom, at leaſt as the Wars go of late, 'tis not the longeſt Sword, but the longeſt Purſe that conquers. If the French get Spain, they get the greateſt Trade <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> World in their Hands; they that have the moſt Trade, will have the moſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and they that have the moſt Money, will have the moſt Ships, the beſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the beſt Armies; and if once the French maſters us at Sea, where are <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> And though I would not leſſen our Fleet, which I believe is now the beſt in <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> yet he that looks back to the French Fleet before their Misfortune, will tell <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> all our Engliſh was not able look them in the Face if we had no Dutch on our ſide and hardly with the Dutch and us together.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153170:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
